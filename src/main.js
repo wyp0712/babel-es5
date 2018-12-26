@@ -7,4 +7,8 @@ class Point {
   toString() {
     return '(' + this.x + ', ' + this.y + ')';
   }
+
+  merge() {
+    console.log(1)
+  }
 }
