@@ -11,4 +11,8 @@ class Point {
   merge() {
     console.log(1)
   }
+
+  add() {
+    return 1 + 2
+  }
 }
