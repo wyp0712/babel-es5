@@ -12,7 +12,7 @@ class Point {
     console.log(1)
   }
 
-  add() {
-    return 1 + 2
+  remove() {
+    return 'hello world'
   }
 }
