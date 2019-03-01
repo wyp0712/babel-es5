@@ -15,4 +15,8 @@ class Point {
   remove() {
     return 'hello world'
   }
+
+  add () {
+    return 12 + 56
+  }
 }
